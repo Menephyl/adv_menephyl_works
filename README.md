@@ -1,5 +1,5 @@
-# adv_menephyl_works
-# ⚖️ Menephyl Works Advocacia S&A – Protótipo de Landing Page
+# CONSULTORIA JURIDICA E ADVOCACIA S&A
+# ⚖️ Menephyl Works Advocacia  – Protótipo de Landing Page para advogados
 
 Este repositório contém o **protótipo de uma landing page institucional** desenvolvida para apresentação do escritório **Menephyl Works Advocacia S&A**, localizado em Três Corações (MG).  
 O projeto foi criado como **demonstração de conceito visual e funcional**, servindo de base para futuras iterações.
