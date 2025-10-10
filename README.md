@@ -3,6 +3,7 @@
 
 Este repositório contém o **protótipo de uma landing page institucional** desenvolvida para apresentação do escritório **Menephyl Works Advocacia S&A**, localizado em Três Corações (MG).  
 O projeto foi criado como **demonstração de conceito visual e funcional**, servindo de base para futuras iterações.
+<img width="730" height="547" alt="image" src="https://github.com/user-attachments/assets/f59b4ac2-78f7-4a4c-93f3-ef3aa2192d6b" />
 
 ---
 
